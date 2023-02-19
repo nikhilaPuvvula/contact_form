@@ -38,7 +38,5 @@ table
     backdrop-filter: blur(16px) saturate(180%);
     width:500px;
     height:500px;
-    position:absolute;
-    
     text-align: center;
 }
